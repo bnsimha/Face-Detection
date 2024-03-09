@@ -1,6 +1,5 @@
 # Face Detection System using OpenCV
 
-Overview
 This repository contains a simple and comprehensive face detection system implemented using OpenCV, a popular computer vision library. The system detects faces in images or video streams, providing a foundation for various applications such as surveillance, biometrics, and augmented reality.
 
 Features
